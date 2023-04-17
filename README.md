@@ -73,12 +73,10 @@
 [DetailedDiagrams.ClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.ClassesWithStatus.pdf)\
 [DetailedDiagrams.issue1080RoleSubclasses](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issue1080RoleSubclasses.pdf)\
 [DetailedDiagrams.issueC047Organisation](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issueC047Organisation.pdf)\
-
 [InfCommon.DetailedDiagrams.tmpBusinessPlan](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpBusinessPlan.pdf)\
 [InfCommon.DetailedDiagrams.tmpOtherClassesTODO](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpOtherClassesTODO.pdf)\
 [InfCommon.DetailedDiagrams.tmpScheduledEventAndParametersTimePointAndSchedule](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpScheduledEventAndParametersTimePointAndSchedule.pdf)\
 [InfCommon.DetailedDiagrams.tmpSkillCraft](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpSkillCraft.pdf)\
-
 [InfCommon.InfCommonInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.InfCommonInheritance.pdf)\
 [InfCustomers.InfCustomersInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfCustomers.InfCustomersInheritance.pdf)\
 [InfCustomers.InfCustomersOverview](Model.TC57CIM.IEC61968.InfIEC61968.InfCustomers.InfCustomersOverview.pdf)\
