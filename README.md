@@ -4,12 +4,12 @@
 1. [AssetInfo.AssetInfoOverview](Model.TC57CIM.IEC61968.AssetInfo.AssetInfoOverview.pdf)
 1. [AssetInfo.AssetWireInfo](Model.TC57CIM.IEC61968.AssetInfo.AssetWireInfo.pdf)
 1. [AssetInfo.DCIMTransformerInfo](Model.TC57CIM.IEC61968.AssetInfo.DCIMTransformerInfo.pdf)
-2. 
+
 3. [AssetMeas.AssetHealthMeasurement](Model.TC57CIM.IEC61968.AssetMeas.AssetHealthMeasurement.pdf)
 4. [AssetMeas.AssetMeasDataTypes](Model.TC57CIM.IEC61968.AssetMeas.AssetMeasDataTypes.pdf)
 5. [AssetMeas.AssetOilAnalysisAnalog](Model.TC57CIM.IEC61968.AssetMeas.AssetOilAnalysisAnalog.pdf)
 6. [AssetMeas.AssetOilAnalysisDiscrete](Model.TC57CIM.IEC61968.AssetMeas.AssetOilAnalysisDiscrete.pdf)
-7. 
+
 8. [Assets.AssetAnalog](Model.TC57CIM.IEC61968.Assets.AssetAnalog.pdf)
 9. [Assets.AssetAnalytics](Model.TC57CIM.IEC61968.Assets.AssetAnalytics.pdf)
 10. [Assets.AssetDiscrete](Model.TC57CIM.IEC61968.Assets.AssetDiscrete.pdf)
@@ -27,18 +27,22 @@
 22. [Assets.AssetsInheritance](Model.TC57CIM.IEC61968.Assets.AssetsInheritance.pdf)
 23. [Assets.AssetsOverview](Model.TC57CIM.IEC61968.Assets.AssetsOverview.pdf)
 24. [Assets.SwitchOperations](Model.TC57CIM.IEC61968.Assets.SwitchOperations.pdf)
-25. 
+
 26. [Common.CommonInheritance](Model.TC57CIM.IEC61968.Common.CommonInheritance.pdf)
 27. [Common.CommonOverview](Model.TC57CIM.IEC61968.Common.CommonOverview.pdf)
 28. [Common.CommonOverview2](Model.TC57CIM.IEC61968.Common.CommonOverview2.pdf)
-29. 
+
+
 30. [DetailedDiagrams.issue1126UserAttributeEtcAsCompound](Model.TC57CIM.IEC61968.Common.DetailedDiagrams.issue1126UserAttributeEtcAsCompound.pdf)
-31. 
+
+
 32. [Customers.CustomersInheritance](Model.TC57CIM.IEC61968.Customers.CustomersInheritance.pdf)
 33. [Customers.CustomersOverview](Model.TC57CIM.IEC61968.Customers.CustomersOverview.pdf)
 
+
 34. [DER-EndDeviceOverview](Model.TC57CIM.IEC61968.DER.DER-EndDeviceOverview.pdf)
 35. [DER.DEROverview](Model.TC57CIM.IEC61968.DER.DEROverview.pdf)
+
 
 36. [DocIEC61968.DCIMAssetsIntro](Model.TC57CIM.IEC61968.DocIEC61968.DCIMAssetsIntro.pdf)
 37. [DocIEC61968.DCIMAssetsSubtyping](Model.TC57CIM.IEC61968.DocIEC61968.DCIMAssetsSubtyping.pdf)
@@ -63,13 +67,16 @@
 56. [DocIEC61968.DCIMTroubleTickets](Model.TC57CIM.IEC61968.DocIEC61968.DCIMTroubleTickets.pdf)
 57. [DocIEC61968.DCIMWork](Model.TC57CIM.IEC61968.DocIEC61968.DCIMWork.pdf)
 
+
 58. [IEC61968.IEC61968Dependencies](Model.TC57CIM.IEC61968.IEC61968Dependencies.pdf)
+
 
 59. [InfIEC61968.Dependencies](Model.TC57CIM.IEC61968.InfIEC61968.Dependencies.pdf)
 60. [InfAssetInfo.InfAssetInfoInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfAssetInfo.InfAssetInfoInheritance.pdf)
 61. [InfAssetInfo.InfAuxiliaryEquipmentInfo](Model.TC57CIM.IEC61968.InfIEC61968.InfAssetInfo.InfAuxiliaryEquipmentInfo.pdf)
 62. [InfAssetInfo.InfElectricalInfo](Model.TC57CIM.IEC61968.InfIEC61968.InfAssetInfo.InfElectricalInfo.pdf)
 63. [InfAssetInfo.InfTransformerInfo](Model.TC57CIM.IEC61968.InfIEC61968.InfAssetInfo.InfTransformerInfo.pdf)
+
 
 64. [InfAssets.InfAssetContainersAndWorkRelated](Model.TC57CIM.IEC61968.InfIEC61968.InfAssets.InfAssetContainersAndWorkRelated.pdf)
 65. [InfAssets.InfAssetRelationships](Model.TC57CIM.IEC61968.InfIEC61968.InfAssets.InfAssetRelationships.pdf)
@@ -81,21 +88,26 @@
 71. [InfAssets.InfProcedures](Model.TC57CIM.IEC61968.InfIEC61968.InfAssets.InfProcedures.pdf)
 72. [InfAssets.InfTransformerObservationsBushing](Model.TC57CIM.IEC61968.InfIEC61968.InfAssets.InfTransformerObservationsBushing.pdf)
 
+
 73. [DetailedDiagrams.ClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.ClassesWithStatus.pdf)
 74. [DetailedDiagrams.issue1080RoleSubclasses](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issue1080RoleSubclasses.pdf)
 75. [DetailedDiagrams.issueC047Organisation](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issueC047Organisation.pdf)
+
 
 76. [InfCommon.DetailedDiagrams.tmpBusinessPlan](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpBusinessPlan.pdf)
 77. [InfCommon.DetailedDiagrams.tmpOtherClassesTODO](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpOtherClassesTODO.pdf)
 78. [InfCommon.DetailedDiagrams.tmpScheduledEventAndParametersTimePointAndSchedule](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpScheduledEventAndParametersTimePointAndSchedule.pdf)
 79. [InfCommon.DetailedDiagrams.tmpSkillCraft](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpSkillCraft.pdf)
 
+
 80. [InfCommon.InfCommonInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.InfCommonInheritance.pdf)
 81. [InfCustomers.InfCustomersInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfCustomers.InfCustomersInheritance.pdf)
 82. [InfCustomers.InfCustomersOverview](Model.TC57CIM.IEC61968.InfIEC61968.InfCustomers.InfCustomersOverview.pdf)
 
+
 83. [DetailedDiagrams.InfClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.DetailedDiagrams.InfClassesWithStatus.pdf)
 84. [DetailedDiagrams.InfERPSupport](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.DetailedDiagrams.InfERPSupport.pdf)
+
 
 85. [InfERPSupport.InfERPSupportInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.InfERPSupportInheritance.pdf)
 86. [InfLocations.InLocationsOverview](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InLocationsOverview.pdf)
@@ -110,8 +122,10 @@
 95. [InfNewAssets.InfNewAssetsOverview](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfNewAssetsOverview.pdf)
 96. [InfNewAssets.InfProcedureDataSet](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfProcedureDataSet.pdf)
 
+
 97. [LoadControl.LoadControlInheritance](Model.TC57CIM.IEC61968.LoadControl.LoadControlInheritance.pdf)
 98. [LoadControl.LoadControlOverview](Model.TC57CIM.IEC61968.LoadControl.LoadControlOverview.pdf)
+
 
 99. [Metering.MeteringConfigurationEvents](Model.TC57CIM.IEC61968.Metering.MeteringConfigurationEvents.pdf)
 100. [Metering.MeteringDatatypes](Model.TC57CIM.IEC61968.Metering.MeteringDatatypes.pdf)
@@ -125,8 +139,10 @@
 108. [Metering.MeteringUsagePoints](Model.TC57CIM.IEC61968.Metering.MeteringUsagePoints.pdf)
 109. [Metering.ReadingTypeEnumerations](Model.TC57CIM.IEC61968.Metering.ReadingTypeEnumerations.pdf)
 
+
 110. [DetailedDiagrams.FaultModel](Model.TC57CIM.IEC61968.Operations.DetailedDiagrams.FaultModel.pdf)
 111. [DetailedDiagrams.UnplannedOutageModel](Model.TC57CIM.IEC61968.Operations.DetailedDiagrams.UnplannedOutageModel.pdf)
+
 
 112. [Operations.OperationsInheritance](Model.TC57CIM.IEC61968.Operations.OperationsInheritance.pdf)
 113. [Operations.OperationsOverview](Model.TC57CIM.IEC61968.Operations.OperationsOverview.pdf)
@@ -136,7 +152,9 @@
 117. [Operations.PlannedOutageModel](Model.TC57CIM.IEC61968.Operations.PlannedOutageModel.pdf)
 118. [Operations.PlannedOutageModel2](Model.TC57CIM.IEC61968.Operations.PlannedOutageModel2.pdf)
 
+
 119. [PaymentMetering.AuxiliaryAgreement](Model.TC57CIM.IEC61968.PaymentMetering.AuxiliaryAgreement.pdf)
+
 
 120. [DetailedDiagrams.part9AuxiliaryAgreementConfig](Model.TC57CIM.IEC61968.PaymentMetering.DetailedDiagrams.part9AuxiliaryAgreementConfig.pdf)
 121. [DetailedDiagrams.part9CustomerAccountConfig](Model.TC57CIM.IEC61968.PaymentMetering.DetailedDiagrams.part9CustomerAccountConfig.pdf)
@@ -152,12 +170,14 @@
 131. [DetailedDiagrams.part9SupplierConfig](Model.TC57CIM.IEC61968.PaymentMetering.DetailedDiagrams.part9SupplierConfig.pdf)
 132. [DetailedDiagrams.part9TransactionRecord](Model.TC57CIM.IEC61968.PaymentMetering.DetailedDiagrams.part9TransactionRecord.pdf)
 
+
 133. [PaymentMetering.PaymentMeteringInheritance](Model.TC57CIM.IEC61968.PaymentMetering.PaymentMeteringInheritance.pdf)
 134. [PaymentMetering.PaymentMeteringOverview](Model.TC57CIM.IEC61968.PaymentMetering.PaymentMeteringOverview.pdf)
 135. [PaymentMetering.PaymentMeteringRelationships](Model.TC57CIM.IEC61968.PaymentMetering.PaymentMeteringRelationships.pdf)
 136. [PaymentMetering.Receipting](Model.TC57CIM.IEC61968.PaymentMetering.Receipting.pdf)
 137. [PaymentMetering.TariffProfile](Model.TC57CIM.IEC61968.PaymentMetering.TariffProfile.pdf)
 138. [PaymentMetering.Transacting](Model.TC57CIM.IEC61968.PaymentMetering.Transacting.pdf)
+
 
 139. [Work.AssetProceduresWork](Model.TC57CIM.IEC61968.Work.AssetProceduresWork.pdf)
 140. [Work.AssetWork](Model.TC57CIM.IEC61968.Work.AssetWork.pdf)
