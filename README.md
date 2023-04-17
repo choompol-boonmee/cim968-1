@@ -38,8 +38,6 @@
 1. [Common.CommonInheritance](Model.TC57CIM.IEC61968.Common.CommonInheritance.pdf)
 27. [Common.CommonOverview](Model.TC57CIM.IEC61968.Common.CommonOverview.pdf)
 28. [Common.CommonOverview2](Model.TC57CIM.IEC61968.Common.CommonOverview2.pdf)
-
-## DetailedDiagrams
 1. [DetailedDiagrams.issue1126UserAttributeEtcAsCompound](Model.TC57CIM.IEC61968.Common.DetailedDiagrams.issue1126UserAttributeEtcAsCompound.pdf)
 
 ## Customers
@@ -92,12 +90,11 @@
 71. [InfAssets.InfProcedures](Model.TC57CIM.IEC61968.InfIEC61968.InfAssets.InfProcedures.pdf)
 72. [InfAssets.InfTransformerObservationsBushing](Model.TC57CIM.IEC61968.InfIEC61968.InfAssets.InfTransformerObservationsBushing.pdf)
 
-## DetailedDiagrams
-1. [DetailedDiagrams.ClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.ClassesWithStatus.pdf)
-1. [DetailedDiagrams.issue1080RoleSubclasses](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issue1080RoleSubclasses.pdf)
-75. [DetailedDiagrams.issueC047Organisation](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issueC047Organisation.pdf)
 
 ## InfCommon
+1. [DetailedDiagrams.ClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.ClassesWithStatus.pdf)
+1. [DetailedDiagrams.issue1080RoleSubclasses](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issue1080RoleSubclasses.pdf)
+1. [DetailedDiagrams.issueC047Organisation](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.issueC047Organisation.pdf)
 1. [InfCommon.DetailedDiagrams.tmpBusinessPlan](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpBusinessPlan.pdf)
 77. [InfCommon.DetailedDiagrams.tmpOtherClassesTODO](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpOtherClassesTODO.pdf)
 78. [InfCommon.DetailedDiagrams.tmpScheduledEventAndParametersTimePointAndSchedule](Model.TC57CIM.IEC61968.InfIEC61968.InfCommon.DetailedDiagrams.tmpScheduledEventAndParametersTimePointAndSchedule.pdf)
@@ -108,53 +105,49 @@
 1. [InfCustomers.InfCustomersInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfCustomers.InfCustomersInheritance.pdf)
 82. [InfCustomers.InfCustomersOverview](Model.TC57CIM.IEC61968.InfIEC61968.InfCustomers.InfCustomersOverview.pdf)
 
-## DetailedDiagrams
-1. [DetailedDiagrams.InfClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.DetailedDiagrams.InfClassesWithStatus.pdf)
-84. [DetailedDiagrams.InfERPSupport](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.DetailedDiagrams.InfERPSupport.pdf)
-
 ## InfERPSupport
 1. [InfERPSupport.InfERPSupportInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.InfERPSupportInheritance.pdf)
-86. [InfLocations.InLocationsOverview](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InLocationsOverview.pdf)
-87. [InfLocations.InfClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InfClassesWithStatus.pdf)
-88. [InfLocations.InfLocationSubclassesAndAssociations](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InfLocationSubclassesAndAssociations.pdf)
-89. [InfLocations.InfLocationsInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InfLocationsInheritance.pdf)
-90. [InfTypeAsset.InfTypeAsset](Model.TC57CIM.IEC61968.InfIEC61968.InfTypeAsset.InfTypeAsset.pdf)
-91. [InfWiresExt.InfWiresExt](Model.TC57CIM.IEC61968.InfIEC61968.InfWiresExt.InfWiresExt.pdf)
-92. [InfWork.InfWorkInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfWork.InfWorkInheritance.pdf)
-93. [InfIEC61968.Main](Model.TC57CIM.IEC61968.InfIEC61968.Main.pdf)
-94. [InfNewAssets.InfNewAssets](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfNewAssets.pdf)
-95. [InfNewAssets.InfNewAssetsOverview](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfNewAssetsOverview.pdf)
-96. [InfNewAssets.InfProcedureDataSet](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfProcedureDataSet.pdf)
+6. [InfLocations.InLocationsOverview](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InLocationsOverview.pdf)
+7. [InfLocations.InfClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InfClassesWithStatus.pdf)
+8. [InfLocations.InfLocationSubclassesAndAssociations](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InfLocationSubclassesAndAssociations.pdf)
+9. [InfLocations.InfLocationsInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfLocations.InfLocationsInheritance.pdf)
+0. [InfTypeAsset.InfTypeAsset](Model.TC57CIM.IEC61968.InfIEC61968.InfTypeAsset.InfTypeAsset.pdf)
+1. [InfWiresExt.InfWiresExt](Model.TC57CIM.IEC61968.InfIEC61968.InfWiresExt.InfWiresExt.pdf)
+2. [InfWork.InfWorkInheritance](Model.TC57CIM.IEC61968.InfIEC61968.InfWork.InfWorkInheritance.pdf)
+3. [InfIEC61968.Main](Model.TC57CIM.IEC61968.InfIEC61968.Main.pdf)
+4. [InfNewAssets.InfNewAssets](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfNewAssets.pdf)
+5. [InfNewAssets.InfNewAssetsOverview](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfNewAssetsOverview.pdf)
+9. [InfNewAssets.InfProcedureDataSet](Model.TC57CIM.IEC61968.InfIEC61968.Sandbox.InfNewAssets.InfProcedureDataSet.pdf)
+1. [DetailedDiagrams.InfClassesWithStatus](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.DetailedDiagrams.InfClassesWithStatus.pdf)
+8. [DetailedDiagrams.InfERPSupport](Model.TC57CIM.IEC61968.InfIEC61968.InfERPSupport.DetailedDiagrams.InfERPSupport.pdf)
 
 ## LoadControl
 1. [LoadControl.LoadControlInheritance](Model.TC57CIM.IEC61968.LoadControl.LoadControlInheritance.pdf)
-98. [LoadControl.LoadControlOverview](Model.TC57CIM.IEC61968.LoadControl.LoadControlOverview.pdf)
+1. [LoadControl.LoadControlOverview](Model.TC57CIM.IEC61968.LoadControl.LoadControlOverview.pdf)
 
 ## Metering
 1. [Metering.MeteringConfigurationEvents](Model.TC57CIM.IEC61968.Metering.MeteringConfigurationEvents.pdf)
-100. [Metering.MeteringDatatypes](Model.TC57CIM.IEC61968.Metering.MeteringDatatypes.pdf)
-101. [Metering.MeteringEndDevices](Model.TC57CIM.IEC61968.Metering.MeteringEndDevices.pdf)
-102. [Metering.MeteringEventsAndControls](Model.TC57CIM.IEC61968.Metering.MeteringEventsAndControls.pdf)
-103. [Metering.MeteringInheritance](Model.TC57CIM.IEC61968.Metering.MeteringInheritance.pdf)
-104. [Metering.MeteringMeterReadings](Model.TC57CIM.IEC61968.Metering.MeteringMeterReadings.pdf)
-105. [Metering.MeteringMultipliers](Model.TC57CIM.IEC61968.Metering.MeteringMultipliers.pdf)
-106. [Metering.MeteringOverviewShort](Model.TC57CIM.IEC61968.Metering.MeteringOverviewShort.pdf)
-107. [Metering.MeteringTypes](Model.TC57CIM.IEC61968.Metering.MeteringTypes.pdf)
-108. [Metering.MeteringUsagePoints](Model.TC57CIM.IEC61968.Metering.MeteringUsagePoints.pdf)
-109. [Metering.ReadingTypeEnumerations](Model.TC57CIM.IEC61968.Metering.ReadingTypeEnumerations.pdf)
-
-## DetailedDiagrams
-1. [DetailedDiagrams.FaultModel](Model.TC57CIM.IEC61968.Operations.DetailedDiagrams.FaultModel.pdf)
-111. [DetailedDiagrams.UnplannedOutageModel](Model.TC57CIM.IEC61968.Operations.DetailedDiagrams.UnplannedOutageModel.pdf)
+1. [Metering.MeteringDatatypes](Model.TC57CIM.IEC61968.Metering.MeteringDatatypes.pdf)
+1. [Metering.MeteringEndDevices](Model.TC57CIM.IEC61968.Metering.MeteringEndDevices.pdf)
+1. [Metering.MeteringEventsAndControls](Model.TC57CIM.IEC61968.Metering.MeteringEventsAndControls.pdf)
+1. [Metering.MeteringInheritance](Model.TC57CIM.IEC61968.Metering.MeteringInheritance.pdf)
+1. [Metering.MeteringMeterReadings](Model.TC57CIM.IEC61968.Metering.MeteringMeterReadings.pdf)
+1. [Metering.MeteringMultipliers](Model.TC57CIM.IEC61968.Metering.MeteringMultipliers.pdf)
+1. [Metering.MeteringOverviewShort](Model.TC57CIM.IEC61968.Metering.MeteringOverviewShort.pdf)
+1. [Metering.MeteringTypes](Model.TC57CIM.IEC61968.Metering.MeteringTypes.pdf)
+1. [Metering.MeteringUsagePoints](Model.TC57CIM.IEC61968.Metering.MeteringUsagePoints.pdf)
+1. [Metering.ReadingTypeEnumerations](Model.TC57CIM.IEC61968.Metering.ReadingTypeEnumerations.pdf)
 
 ## Operations
 1. [Operations.OperationsInheritance](Model.TC57CIM.IEC61968.Operations.OperationsInheritance.pdf)
-113. [Operations.OperationsOverview](Model.TC57CIM.IEC61968.Operations.OperationsOverview.pdf)
-114. [Operations.OperationsOverview2](Model.TC57CIM.IEC61968.Operations.OperationsOverview2.pdf)
-115. [Operations.OutageModel](Model.TC57CIM.IEC61968.Operations.OutageModel.pdf)
-116. [Operations.OutageOverview](Model.TC57CIM.IEC61968.Operations.OutageOverview.pdf)
-117. [Operations.PlannedOutageModel](Model.TC57CIM.IEC61968.Operations.PlannedOutageModel.pdf)
-118. [Operations.PlannedOutageModel2](Model.TC57CIM.IEC61968.Operations.PlannedOutageModel2.pdf)
+3. [Operations.OperationsOverview](Model.TC57CIM.IEC61968.Operations.OperationsOverview.pdf)
+4. [Operations.OperationsOverview2](Model.TC57CIM.IEC61968.Operations.OperationsOverview2.pdf)
+5. [Operations.OutageModel](Model.TC57CIM.IEC61968.Operations.OutageModel.pdf)
+6. [Operations.OutageOverview](Model.TC57CIM.IEC61968.Operations.OutageOverview.pdf)
+7. [Operations.PlannedOutageModel](Model.TC57CIM.IEC61968.Operations.PlannedOutageModel.pdf)
+8. [Operations.PlannedOutageModel2](Model.TC57CIM.IEC61968.Operations.PlannedOutageModel2.pdf)
+1. [DetailedDiagrams.FaultModel](Model.TC57CIM.IEC61968.Operations.DetailedDiagrams.FaultModel.pdf)
+1. [DetailedDiagrams.UnplannedOutageModel](Model.TC57CIM.IEC61968.Operations.DetailedDiagrams.UnplannedOutageModel.pdf)
 
 ## PaymentMetering
 1. [PaymentMetering.AuxiliaryAgreement](Model.TC57CIM.IEC61968.PaymentMetering.AuxiliaryAgreement.pdf)
@@ -180,7 +173,7 @@
 
 ## Work
 1. [Work.AssetProceduresWork](Model.TC57CIM.IEC61968.Work.AssetProceduresWork.pdf)
-140. [Work.AssetWork](Model.TC57CIM.IEC61968.Work.AssetWork.pdf)
-141. [DetailedDiagrams.WorkRelationships](Model.TC57CIM.IEC61968.Work.DetailedDiagrams.WorkRelationships.pdf)
-142. [Work.WorkInheritance](Model.TC57CIM.IEC61968.Work.WorkInheritance.pdf)
-143. [Work.WorkOverview](Model.TC57CIM.IEC61968.Work.WorkOverview.pdf)
+1. [Work.AssetWork](Model.TC57CIM.IEC61968.Work.AssetWork.pdf)
+1. [DetailedDiagrams.WorkRelationships](Model.TC57CIM.IEC61968.Work.DetailedDiagrams.WorkRelationships.pdf)
+1. [Work.WorkInheritance](Model.TC57CIM.IEC61968.Work.WorkInheritance.pdf)
+1. [Work.WorkOverview](Model.TC57CIM.IEC61968.Work.WorkOverview.pdf)
